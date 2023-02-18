@@ -5,6 +5,13 @@ body {
   background-color: rgb(114, 151, 161);
 }
 
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15vh;
+}
+
 .calendar {
   width: 100vw;
   margin-top: 15vh;
